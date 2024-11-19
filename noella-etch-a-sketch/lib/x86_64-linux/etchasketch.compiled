@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1611610588"/>
+  <Params Value=" -MObjFPC -Scghi -CX -Cg -O3 -XX -l -vewnhibq -Fi/home/aruna/noella-etch-a-sketch/lib/x86_64-linux -Fu/usr/lib/lazarus/2.0.10/components/printers/lib/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/2.0.10/components/cairocanvas/lib/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/2.0.10/lcl/units/x86_64-linux/gtk2 -Fu/usr/lib/lazarus/2.0.10/lcl/units/x86_64-linux -Fu/usr/lib/lazarus/2.0.10/components/lazutils/lib/x86_64-linux -Fu/usr/lib/lazarus/2.0.10/packager/units/x86_64-linux -Fu/home/aruna/noella-etch-a-sketch/ -FU/home/aruna/noella-etch-a-sketch/lib/x86_64-linux/ -FE/home/aruna/noella-etch-a-sketch/ -o/home/aruna/noella-etch-a-sketch/etchasketch -dLCL -dLCLgtk2 etchasketch.lpr"/>
+</CONFIG>
